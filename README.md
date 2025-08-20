@@ -6,7 +6,8 @@ Server-side template injections (SSTI) are vulnerabilities that let the attacker
 <h2>Steps</h2>
 <p>pip3 install Flask</p>
 <p>pip3 install virtualenv</p>
-<h5>On Linux </h5>
+
+**On Linux**
 
 <ul>
   <li>mkdir SSTIProject </li>
@@ -14,7 +15,7 @@ Server-side template injections (SSTI) are vulnerabilities that let the attacker
   <li>python3 -m venv venv</li>
  </ul>
  
-<h5>On Windows </h5>
+**On Windows**
 
 <ul>
   <li>mkdir SSTIProject </li>
